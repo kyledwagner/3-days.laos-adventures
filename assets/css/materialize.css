@@ -8379,7 +8379,7 @@ input[type=range]::-ms-thumb {
 .carousel.carousel-slider .carousel-fixed-item {
   position: relative;
   top: 50%;
-  transform: translateY(-65%);
+  transform: translateY(-60%);
   left: 0;
   right: 0;
   z-index: 1;
