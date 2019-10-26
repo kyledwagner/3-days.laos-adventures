@@ -1,11 +1,11 @@
 /* This is the main.css file for Tiger Trail's microsite. */
 
 @font-face {font-family:"somethingwild-Regular";
-  src: url("https://kyledwagner.github.io/2-day.laos-adventures/assets/fonts/Something_Wild/somethingwild-Regular.eot"),
-  url("https://kyledwagner.github.io/2-day.laos-adventures/assets/fonts/Something_Wild/somethingwild-Regular.woff2") format("woff2"),
-  url("https://kyledwagner.github.io/2-day.laos-adventures/assets/fonts/Something_Wild/somethingwild-Regular.woff") format("woff"),
-  url("https://kyledwagner.github.io/2-day.laos-adventures/assets/fonts/Something_Wild/somethingwild-Regular.ttf") format("truetype"),
-  url("https://kyledwagner.github.io/2-day.laos-adventures/assets/fonts/Something_Wild/somethingwild-Regular.svg#somethingwild-regular") format("svg");font-weight:normal;font-style:normal;}
+  src: url("/assets/fonts/Something_Wild/somethingwild-Regular.eot"),
+  url("/assets/fonts/Something_Wild/somethingwild-Regular.woff2") format("woff2"),
+  url("/assets/fonts/Something_Wild/somethingwild-Regular.woff") format("woff"),
+  url("/assets/fonts/Something_Wild/somethingwild-Regular.ttf") format("truetype"),
+  url("/assets/fonts/Something_Wild/somethingwild-Regular.svg#somethingwild-regular") format("svg");font-weight:normal;font-style:normal;}
 
 .navbar
 {
